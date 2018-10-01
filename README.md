@@ -1,2 +1,1 @@
-# answer_level_1
-Answer to the assignment for the problem in Cisco_Programbility_black_belt level 1
+This repository contains the solutions to Cisco Programmability Black Belt assignments.
